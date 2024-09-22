@@ -7,7 +7,7 @@
 ## Our Team
 
 <pre>alqix - Maintainer
-<a href="https://t.me/alqix">Telegram</a> <a href="mailto:alqix@icloud.com">Send Email</a>
+<a href="https://t.me/alqix0">Telegram</a> <a href="mailto:alqix@icloud.com">Send Email</a>
 
 * Devices
   * Samsung A73 5G (a73xq)
