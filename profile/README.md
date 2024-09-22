@@ -16,7 +16,7 @@
   * Redmi Note 10s (rosemary)
 </pre>
 
-<pre>eniscd - Maintainer
+<pre>enis26 - Maintainer
 <a href="https://t.me/eniss26">Telegram</a> <a href="mailto:contact@enisfleur.xyz">Send Email</a>
 
 * Devices
