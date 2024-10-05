@@ -29,6 +29,8 @@
 
 * Devices
   * Poco Pad (dizi)
+  * Poco F4  (munch)
+  * Redmi Note 7 (lavender)
 </pre>
 
 <pre>mrtozkn - Maintainer
