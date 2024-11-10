@@ -12,8 +12,6 @@
 * Devices
   * Samsung A73 5G (a73xq)
   * Samsung M52 5G (m52xq)
-  * Redmi Note 12 Pro 5G (ruby)
-  * Redmi Note 10s (rosemary)
 </pre>
 
 <pre>enis26 - Maintainer
@@ -21,7 +19,6 @@
 
 * Devices
   * POCO X3 Pro (vayu)
-  * Samsung A70 (a70q)
 </pre>
 
 <pre>Efeisot - Maintainer
