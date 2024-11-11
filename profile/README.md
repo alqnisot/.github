@@ -19,6 +19,7 @@
 
 * Devices
   * POCO X3 Pro (vayu)
+  * Galaxy A70 (a70q)
 </pre>
 
 <pre>Efeisot - Maintainer
