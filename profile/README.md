@@ -37,3 +37,11 @@
 * Devices
   * Mi Note 3 (jason)
 </pre>
+
+<pre>daeSundae - Maintainer
+<a href="https://t.me/ctivity">Telegram</a>
+
+* Devices
+  * Poco F5 Pro (mondrian)
+  * Poco Pad (dizi)
+</pre>
