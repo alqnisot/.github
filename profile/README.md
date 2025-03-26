@@ -14,14 +14,6 @@
   * Samsung M52 5G (m52xq)
 </pre>
 
-<pre>enis26 - Maintainer
-<a href="https://t.me/eniss26">Telegram</a> <a href="mailto:contact@enisfleur.xyz">Send Email</a>
-
-* Devices
-  * POCO X3 Pro (vayu)
-  * Galaxy A70 (a70q)
-</pre>
-
 <pre>Efeisot - Maintainer
 <a href="https://t.me/Efeisot">Telegram</a>
 
@@ -29,14 +21,6 @@
   * Poco Pad (dizi)
   * Poco F4  (munch)
   * Redmi Note 7 (lavender)
-</pre>
-
-<pre>mrtozkn - Maintainer
-<a href="https://t.me/m3rt0">Telegram</a> <a href="mailto:mertozkan05@gmail.com">Send Email</a>
-
-* Devices
-  * Mi Note 3 (jason)
-  * Redmi Note 8 (ginkgo)
 </pre>
 
 <pre>daeSundae - Maintainer
