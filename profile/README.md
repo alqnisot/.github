@@ -1,4 +1,4 @@
-# <img src="https://github.com/Alqnisot/.github/blob/main/img/alqnisot_small.png" width="200" height="64"/>
+# <img src="https://github.com/Alqnisot/.github/blob/main/img/alqnisot_small.png" width="200" height="200"/>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <pre>We are a development / maintaining team who cares about your experience.</pre>
