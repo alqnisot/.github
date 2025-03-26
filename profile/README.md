@@ -36,6 +36,7 @@
 
 * Devices
   * Mi Note 3 (jason)
+  * Redmi Note 8 (ginkgo)
 </pre>
 
 <pre>daeSundae - Maintainer
